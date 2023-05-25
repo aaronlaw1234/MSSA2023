@@ -1,0 +1,1 @@
+1..10 | ForEach-Object {Get-Random -SetSeed $_}
